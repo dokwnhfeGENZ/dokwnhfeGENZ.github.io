@@ -1,0 +1,14 @@
+title: My Developer Blog
+description: A blog about coding, development, and open source
+author: dokwnhfeGENZ
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+# Site settings
+url: "https://dokwnhfreGENZ.github.io"
+baseurl: ""
+
+# Social
+github_username: dokwnhfeGENZ
